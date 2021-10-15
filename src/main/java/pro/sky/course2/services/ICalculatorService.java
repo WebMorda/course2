@@ -1,5 +1,4 @@
 package pro.sky.course2.services;
-
 public interface ICalculatorService {
     int plus(int num1, int num2);
 
